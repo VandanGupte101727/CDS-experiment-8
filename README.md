@@ -122,6 +122,8 @@ Code:-<br>
     return 0;
     }
 
+OUTPUT:-<br>
+![exp8](https://github.com/VandanGupte101727/CDS-experiment-8/blob/main/Screenshot%202024-08-12%20at%208.25.07%20PM.png)
 
 Conclusion:-<br>
 in this experiment we learnt to use the multidimensional arrays (matrix) and how to perform operations on them<br>
